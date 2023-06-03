@@ -3,30 +3,66 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# 🔖常用书签
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+| 🔖 <a href="https://app.youneedabudget.com/39263eb5-7d97-459f-8da5-1349076b3872/reports/income-expense" target="_blank">财务报表</a> | 🔖 <a href="https://home.personalcapital.com/page/login/app#/dashboard" target="_blank">净资产</a> | <a href="https://myapps.sfgov.org/ccsfportal/signin" target="_blank">职业 SFO Q</a>
+| <a href="https://www.discover.com/online-banking/" target="_blank">🏦发现银行</a> | <a href="https://www.bankofamerica.com/" target="_blank">🏦美国银行</a> | <a href="https://www.treasurydirect.gov/RS/UN-Display.do" target="_blank">🏦iBond</a>
 
-More specifically, the created site:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## 🔖物业
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+| <a href="https://www.att.com/" target="_blank">网费</a> | <a href="https://myaccount.sfwater.org/" target="_blank">水费 </a> | <a href="https://m.pge.com/index.html#myaccount/dashboard/summary/0569620123-4" target="_blank">煤电气</a> | <a href="https://www.recology.com/bill-pay/" target="_blank">垃圾费</a>
+| <a href="https://sanfrancisco-ca.county-taxes.com/public/search?search_query=84+tioga&category=gsgx_property_tax" target="_blank">地税</a> | <a href="https://www.farmers.com/customerselfservice/CSS#/policysummary" target="_blank">房保</a> | <a href="https://myaccount.freedommortgage.com/mtg/loan/fhmc/site2/HomepageV2/login#Z7_L9DE1IC01P4L20QBM0FJ5A0084" target="_blank">Freedom房贷</a> | <a href="https://portal.sfrb.org/FrontPortal/Page/RenderPage?tabId=21" target="_blank">租務委員會费用</a>
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## 🔖银行户口
 
-To get started with creating a site, just click "[use this template]"!
+| <a href="https://mysavingsaccount.com/account/log-in" target="_blank">志文k2c</a> | <a href="https://www.discover.com/online-banking/" target="_blank">发现银行</a> | <a href="https://www.bankofamerica.com/" target="_blank">美国银行</a> | <a href="https://www.eastwestbank.com/zh" target="_blank">华美银行</a>
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## 🔖退休户口
 
-----
+| <a href="https://mysfers.org/client-area/account-balance-verification/" target="_blank">Q SFERS</a> | <a href="https://my.voya.com/voyassoui/index.html?domain=sfdcp.voya.com#/login-pweb" target="_blank">Q 457(b)计划</a> | <a href="https://client.schwab.com/Login/SignOn/CustomerCenterLogin.aspx?chinese=y" target="_blank">Roth IRA</a> | <a href="https://secure.ssa.gov/RIL/SiView.action" target="_blank">SSA社会保障局</a>
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## 🔖教育基金 
+529 Accounts
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+| <a href="https://login.my529.org/" target="_blank">my529</a> | <a href="https://www.cascholarshare529.com/cadtpl/auth/ll.cs" target="_blank">ScholarShare529</a> |
+
+## 🔖投资
+
+| <a href="https://www.treasurydirect.gov/RS/UN-Display.do" target="_blank">国债 iBond</a>
+
+## 📱电话费
+
+| <a href="https://www.ultramobile.com/" target="_blank">Ultra</a> | <a href="https://www.h2owirelessnow.com/my-account" target="_blank">H2O</a> | <a href="https://www.cricketwireless.com/myaccount.html#/" target="_blank">Cricket</a>
+
+## 车
+
+| <a href="https://www.bayareafastrak.org/vector/account/home/accountOverview.do" target="_blank">FasTrak</a> | <a href="https://www.dmv.ca.gov/portal/dmv/detail/online" target="_blank">DMV</a> | <a href="https://membership.calstate.aaa.com/my-account" target="_blank">AAA</a> | <a href="https://service.geico.com/insite/iEntry?token=mGHMwNWYdWeVtL7DdwG8ucPyCP0tx2P0%2Fvu%2F%2FsC9D%2BU%3D#domUpdate=true" target="_blank">Geico 车保</a>
+
+## 健康
+
+| <a href="https://healthy.kaiserpermanente.org/northern-california/secure/my-health" target="_blank">Kaiser</a> | <a href="https://portal.orthofi.com/Guardian/Detail/651874" target="_blank">志文牙齿矫正</a>
+
+## 职业
+
+| <a href="https://myapps.sfgov.org/ccsfportal/signin" target="_blank">Q SFO</a> | <a href="https://portal.edd.ca.gov/WebApp/Login?resource_url=https%3A%2F%2Fportal.edd.ca.gov%2FWebApp%2FHome" target="_blank">失业</a>
+
+## 其它
+
+| <a href="https://myapps.sfgov.org/ccsfportal/signin" target="_blank">IRS税务局</a> | <a href="https://vault.bitwarden.com/#/vault" target="_blank">密码管理</a> | <a href="https://www.westernunion.com/us/en/web/user/login" target="_blank">西联汇款</a>
+<a href="https://login.nationwide.com/access/web/login.htm" target="_blank">Q人寿</a> | <a href="https://www.schoolcafe.com/dashboard" target="_blank">E学校午餐</a> | <a href="https://sfpl.bibliocommons.com/user_dashboard" target="_blank">图书馆</a> 
+| <a href="https://apm.activecommunities.com/sfrecpark/ActiveNet_Home?FileName=accountoptions.sdi&fromLoginPage=true" target="_blank">公园游泳班</a> | <a href="https://ramid.ccsf.edu/_layouts/PG/login.aspx?ReturnUrl=%2f" target="_blank">CCSF市立大学</a>
+
+
+# 所有帐号记录
+主要电子邮件: meifamservices@gmail.com
+
+# 自动转账
+![autopay](../img/autopay.png)
+
+# 金融帐户记录
+![accounts](../img/accounts.png)
+
+
+
+
