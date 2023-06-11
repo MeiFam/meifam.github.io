@@ -54,15 +54,3 @@ layout: home
 | <a href="https://apm.activecommunities.com/sfrecpark/ActiveNet_Home?FileName=accountoptions.sdi&fromLoginPage=true" target="_blank">公园游泳班</a> | <a href="https://ramid.ccsf.edu/_layouts/PG/login.aspx?ReturnUrl=%2f" target="_blank">CCSF市立大学</a>
 
 
-# 所有帐号记录
-主要电子邮件: meifamservices@gmail.com
-
-# 自动转账
-![autopay](../img/autopay.png)
-
-# 金融帐户记录
-![accounts](../img/accounts.png)
-
-
-
-
