@@ -4,7 +4,8 @@ layout: home
 ---
 
 # Z Personal Finance
-![cashflow](../img/zfinance.png)
+
+![cashflow](../img/z_finance.png)
 
 ## Financial Accounts
 
